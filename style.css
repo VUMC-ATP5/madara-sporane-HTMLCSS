@@ -1,0 +1,8 @@
+body {
+    background-color: bisque;
+}
+p {border-style: dashed;}
+h1 {padding-left: 40px;}
+a{color: blue;}
+#specialbutton{border-color: blueviolet;}
+div.pilnais{min height: 100px;}
